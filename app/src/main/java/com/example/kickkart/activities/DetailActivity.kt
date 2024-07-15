@@ -60,7 +60,7 @@ class DetailActivity : AppCompatActivity() {
             sliderItems.add(SliderModel(imageUrl))
         }
 
-        binding.viewPagerSlider.adapter = SliderAdapter(sliderItems, this@DetailActivity, binding.viewPagerSlider)
+        binding.viewPagerSlider.adapter = SliderAdapter(sliderItems, this@DetailActivity)
         binding.viewPagerSlider.clipChildren = true
         binding.viewPagerSlider.clipToPadding = false
         binding.viewPagerSlider.offscreenPageLimit = 1
