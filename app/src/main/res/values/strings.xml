@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">KickKart</string>
+    <string name="intro_title">Step Into Your <font color="#6033ba">Style \n A World Of Shoes </font></string>
+    <string name="intro_text">Browse the latest from top brands \n Get personalized recommendations \n Enjoy fast, free shipping</string>
+    <string name="intro_btn_text">Let\'s Get Started</string>
+    <string name="intro_signIn_text">Already have an account? <font color="#6033ba">Sign In </font></string>
+    <string name="main_welcome_text">Welcome Back</string>
+    <string name="main_name">Jammie</string>
+    <string name="main_bell_image_text">Bell Image</string>
+    <string name="main_search_image_text">Search Image</string>
+    <string name="main_brand_text">Official Brands</string>
+    <string name="main_seeAll_text">See All</string>
+    <string name="main_recommend_text">Recommendations</string>
+    <string name="main_explorer_image_text">Explorer Image</string>
+    <string name="main_nav_btn1_text">Explorer</string>
+    <string name="main_cart_image_text">Cart Image</string>
+    <string name="main_nav_btn2_text">Cart</string>
+    <string name="main_wishlist_image_text">Wishlist Image</string>
+    <string name="main_nav_btn3_text">Wishlist</string>
+    <string name="main_orders_image_text">My Orders Image</string>
+    <string name="main_nav_btn4_text">My Order</string>
+    <string name="main_profile_image_text">Profile Image</string>
+    <string name="main_nav_btn5_text">Profile</string>
+    <string name="main_slider_image_text">Slider Image</string>
+    <string name="main_brand_image_text">Brand Image</string>
+    <string name="main_brand_name_text">brand</string>
+    <string name="main_recommend_image_text">Recommendation Image</string>
+    <string name="main_recommend_favourite_image_text">Favourite Image</string>
+    <string name="main_recommend_rating_image_text">Rating Image</string>
+    <string name="main_recommend_price_text">$50</string>
+    <string name="main_recommend_rating_text">5</string>
+    <string name="main_recommend_title_text">title</string>
+    <string name="detail_title_text">title</string>
+    <string name="detail_price_text">$0</string>
+    <string name="detail_size_text">Select Size</string>
+    <string name="detail_rating_text">5</string>
+    <string name="detail_buy_btn_text">Buy Now</string>
+    <string name="size_item_size_text">S</string>
+    <string name="cart_empty_text">Your Cart Is Empty</string>
+    <string name="cart_title_text">My Cart</string>
+    <string name="cart_subtotal_text">Subtotal</string>
+    <string name="cart_delivery_text">Free Delivery</string>
+    <string name="cart_tax_text">Total Tax</string>
+    <string name="cart_total_text">Total</string>
+    <string name="cart_price_text">$-</string>
+    <string name="cart_checkout_text">Check Out</string>
+    <string name="cart_item_title_text">title</string>
+    <string name="cart_item_price_text">$0</string>
+    <string name="cart_item_plus_text">+</string>
+    <string name="cart_item_minus_text">-</string>
+    <string name="cart_item_quantity_text">1</string>
+</resources>

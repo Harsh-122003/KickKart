@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948259865364",
+    "project_id": "kickkart",
+    "storage_bucket": "kickkart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948259865364:android:fcc3fbfc438a38d1c77801",
+        "android_client_info": {
+          "package_name": "com.example.kickkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTlcbVd25qUxvekZpDGaG56_mDlXAxPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
