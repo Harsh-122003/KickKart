@@ -7,14 +7,14 @@
 
 • <b> Category Listings: </b> Click on any brand to view a list of available items, complete with prices and recommendations.
 
-• <b> Item Details: </b> Get detailed descriptions of each item:
-↪ Colors: View available color options.
-↪ Sizes: Select from a range of sizes.
+• <b> Item Details: </b> Get detailed descriptions of each item: <br>
+↪ Colors: View available color options. <br>
+↪ Sizes: Select from a range of sizes. <br>
 ↪ Price: Clearly see the cost of each item.
 
-• <b> Cart Management: </b> Access the cart section to view all items you’ve added. Features include:
-↪ Item Overview: See a summary of all items in your cart, including quantity and price.
-↪ Edit Cart: Adjust quantities or remove items as needed.
+• <b> Cart Management: </b> Access the cart section to view all items you’ve added. Features include: <br>
+↪ Item Overview: See a summary of all items in your cart, including quantity and price. <br>
+↪ Edit Cart: Adjust quantities or remove items as needed. <br>
 ↪ Order Summary: View the total cost of your order, including any applicable taxes and shipping fees.
 
 # <b> Technology </b>
